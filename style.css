@@ -1,0 +1,42 @@
+body {
+    background: #FCF0E4;
+    color: rgb(189, 38, 219);
+    font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: rgb(141, 191, 238);
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 2em;
+    font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+    font-size: 1.5em;
+
+}
+
+h3,
+h4 {
+    font-size: 1em;
+}
+
+#first-header {
+    color: rgb(216, 93, 11);
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.special-text {
+    font-family: "Comic Sans MS", Sans-Serif;
+}
